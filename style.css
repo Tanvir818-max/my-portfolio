@@ -1,4 +1,6 @@
-
+*{
+  /* margin: 0px; */
+}
 
 .open-sans-normal {
   font-family: "Open Sans", sans-serif;
@@ -16,11 +18,11 @@
 }
 /* banner style */
 .banner-title{
-  font-size: 85px;
+  font-size: 45px;
   font-weight: bold;
 }
-.banner-grettings{
-  font-size: 45px;
+.banner-greetings{
+  font-size: 30px;
   font-weight: 600;
 }
 .btn-primary{
